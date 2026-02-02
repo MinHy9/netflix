@@ -16,6 +16,6 @@ spec:
         app: eks-nginx
     spec:
       containers:
-        - image: powermvp/netflix:v1.0
+        - image: powermvp/netflix:v2.0
 
           name: eks-nginx
